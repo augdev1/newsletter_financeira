@@ -43,6 +43,7 @@ O fluxo de trabalho foi desenhado da seguinte forma:
 - **IA & LLMs:**
   - `agno`: Framework para criação de agentes autônomos.
   - `groq`: Cliente Python para a API da Groq (executando Llama 3.1).
+  - `tavily-python`: Ferramenta de busca para o agente.
 - **E-mail:**
   - `smtplib`: Biblioteca nativa do Python para envio de e-mails via SMTP.
 - **Dependências:**
@@ -77,6 +78,7 @@ Crie um arquivo `requirements.txt` com o conteúdo abaixo:
 tagno
 groq
 python-dotenv
+tavily-python
 ```
 Em seguida, instale-as:
 ```bash
