@@ -57,7 +57,7 @@ Siga os passos abaixo para executar o projeto localmente:
 
 **1. Clone este repositório:**
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/augdev1/newsletter_financeira.git
 cd NEWSLETTER_AUG
 ```
 
