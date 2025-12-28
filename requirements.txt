@@ -1,3 +1,4 @@
 agno
 groq
 python-dotenv
+tavily-python
