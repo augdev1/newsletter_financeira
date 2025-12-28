@@ -75,7 +75,7 @@ python -m venv .venv
 **3. Instale as dependências:**
 Crie um arquivo `requirements.txt` com o conteúdo abaixo:
 ```
-tagno
+agno
 groq
 python-dotenv
 tavily-python
