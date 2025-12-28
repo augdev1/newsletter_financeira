@@ -127,7 +127,7 @@ Quando o horário for atingido, você verá os logs de envio do e-mail.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto :
 
 ```
 .
