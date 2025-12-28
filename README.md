@@ -20,6 +20,7 @@ O processo é totalmente automatizado: em um horário definido, o sistema coleta
 - **Disparo de E-mails:** Funcionalidade integrada para enviar automaticamente a newsletter gerada para uma lista de assinantes usando uma conta Gmail.
 - **Configurável:** Todos os parâmetros essenciais (credenciais de e-mail, destinatários, horário de envio) são gerenciados através de um arquivo `.env`.
 
+<img width="1568" height="813" alt="image" src="https://github.com/user-attachments/assets/fa468552-2d26-48d7-8be9-7446b688cf5b" />
 ---
 
 ## ⚙️ Como Funciona
